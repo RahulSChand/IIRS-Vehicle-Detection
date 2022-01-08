@@ -1,3 +1,3 @@
 ### 👀
 
-Repo that holds the work I did as an ML intern at IIRS, ISRO during my sophmore year. 
+Repo that holds the work I did as an CS intern at IIRS, ISRO during my sophmore year. 
