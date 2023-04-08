@@ -1,3 +1,2 @@
-### 👀
 
-Repo that holds the work I did as a CS intern at IIRS, ISRO during my sophmore year. 
+Woke done as a CS intern @ IIRS, ISRO during my sophmore year (Summer 2017). 
